@@ -5,4 +5,8 @@
     <RootNamespace>Projeto_Arquitetura</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\images\" />
+  </ItemGroup>
+
 </Project>

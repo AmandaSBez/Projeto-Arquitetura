@@ -1,3 +1,23 @@
 ﻿body {
     background-color: #ffffff;
 }
+
+.arq-wrapper {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+.imagem-capa {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    float: right;
+}
+
+.imagem-capa img {
+    height: 30rem;
+    border-radius: 10px;
+}
